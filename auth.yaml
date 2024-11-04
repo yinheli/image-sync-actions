@@ -1,0 +1,7 @@
+registry.cn-hangzhou.aliyuncs.com:
+  username: ${ALIYUN_USERNAME}
+  password: ${ALIYUN_PASSWORD}
+
+uhub.service.ucloud.cn:
+  username: ${UCLOUD_USERNAME}
+  password: ${UCLOUD_PASSWORD}

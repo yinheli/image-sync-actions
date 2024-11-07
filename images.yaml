@@ -4,3 +4,7 @@ vllm/vllm-openai:v0.6.3:
 
 bitnamicharts/etcd:10.4.1:
   - uhub.service.ucloud.cn/rshenry/bitnamicharts-etcd
+
+debian:bookworm:
+  - registry.cn-hangzhou.aliyuncs.com/rshenry/debian-bookworm
+  - uhub.service.ucloud.cn/rshenry/debian-bookworm

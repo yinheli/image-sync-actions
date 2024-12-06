@@ -16,3 +16,7 @@ evildecay/etcdkeeper:v0.7.6:
 debian:bookworm:
   - registry.cn-hangzhou.aliyuncs.com/rshenry/debian-bookworm
   - uhub.service.ucloud.cn/rshenry/debian-bookworm
+
+owangyi/php-cli-composer:latest:
+  - registry.cn-hangzhou.aliyuncs.com/rshenry/owangyi-php-cli-composer
+  - uhub.service.ucloud.cn/rshenry/owangyi-php-cli-composer

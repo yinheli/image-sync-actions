@@ -32,4 +32,3 @@ jobs:
           ALIYUN_PASSWORD: ${{ secrets.ALIYUN_PASSWORD }}
           UCLOUD_USERNAME: ${{ secrets.UCLOUD_USERNAME }}
           UCLOUD_PASSWORD: ${{ secrets.UCLOUD_PASSWORD }}
-
